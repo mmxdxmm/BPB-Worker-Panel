@@ -1,0 +1,6 @@
+name = "bpb"
+main = "_worker.js"
+compatibility_date = "2025-02-21"
+kv_namespaces = [
+  { binding = "bpb", id = "117612b7d78141babeeaca619203fd43" }
+]
